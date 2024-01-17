@@ -1,5 +1,5 @@
 // code snippet from leetcode
-class Solution {
+class JohnsonAlgorithm {
 
     private int[] bellmanFord(List<int[]>edges,int n)
     {
