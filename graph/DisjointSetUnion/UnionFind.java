@@ -38,7 +38,7 @@ class UnionFind {
                 parent[parentx]=parenty;
             }
             parent[parentx]=parenty;
-            rank[parentx]++;
+            rank[parenty]++;
         } 
     }
 
