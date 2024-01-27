@@ -1,5 +1,5 @@
-    1. Two Sum
-    2. Number of Islands
+    1. Two Sum (done)
+    2. Number of Islands (done)
     3. Course Schedule
     4. Word Ladder
     5. Clone Graph
@@ -98,4 +98,5 @@
     98. Find the Celebrity
     99. Friend Circles
     100. Number of Islands II
+    101. Rotten Oranges (done)
 
