@@ -1,0 +1,52 @@
+    1. Top K Frequent Elements - Given an array, find the K most frequent elements.
+
+    2. Kth Largest Element in an Array - Find the kth largest element in an unsorted array.
+
+    3. Merge K Sorted Lists - Merge k sorted linked lists and return it as one sorted list.
+
+    4. Ugly Number II - Find the n-th ugly number. Ugly numbers are positive numbers whose prime factors only include 2, 3, 5.
+
+    5. Find Median from Data Stream - Design a data structure that supports the following two operations: addNum and findMedian.
+
+    6. Sort Characters By Frequency - Given a string, sort it in decreasing order based on the frequency of characters.
+
+    7. Kth Smallest Element in a Sorted Matrix - Find the kth smallest element in a sorted matrix.
+
+    8. Super Ugly Number - Write a program to find the nth super ugly number. Super ugly numbers are positive numbers wh
+ose all prime factors are in the given prime list primes of size k.
+
+    9. Merge Sorted Array - Merge two sorted arrays into one sorted array.
+
+    10. Find the Skyline Problem - Given n buildings represented by (left, right, height), find the skyline of these buildings.
+
+    11. Sliding Window Median - Given an array nums, there is a sliding window of size k which is moving from the very left of the array to the very right. Find the median of the element inside the window at each moving.
+
+    12. Top K Frequent Words - Given a non-empty list of words, return the k most frequent elements.
+
+    13. Minimum Number of Refueling Stops - Starting with an initial amount of fuel, we have to travel to the target by refueling in between.
+
+    14. Cheapest Flights Within K Stops - Given an array representing flights where flights[i] = [from, to, price], find the cheapest price from source to destination with at most k stops.
+
+    15. Minimum Cost to Connect Sticks - Connect n ropes into one rope with minimum cost. Each rope has a certain cost, and we can connect two ropes at a time.
+    16. Top K Frequent Words - Given a non-empty list of words, return the k most frequent elements.
+
+    17. Find K Pairs with Smallest Sums - You are given two integer arrays nums1 and nums2 sorted in ascending order and an integer k.
+
+    18. Rearrange String k Distance Apart - Given a non-empty string s and an integer k, rearrange the string such that the same characters are at least distance k from each other.
+
+    19. Find the K Closest Points to Origin - Given an array of points where points[i] = [xi, yi] represents a point on the X-Y plane and an integer k, return the k closest points to the origin (0, 0).
+
+    20. Task Scheduler - Given a characters array tasks, representing the tasks a CPU needs to do, where each letter represents a different task.
+
+    21. Meeting Rooms II - Given an array of meeting time intervals consisting of start and end times, find the minimum number of conference rooms required.
+    22. Frequency Sort - Sort characters in a string based on their frequency.
+    23. Continuous Median - Implement a data structure that supports finding the median of the data stream in constant time.
+    24. Last Stone Weight - We have a collection of stones, each stone has a positive integer weight. Each turn, we choose the two heaviest stones and smash them together.
+    25. Maximum Performance of a Team - You are given two integers n and k and two integer arrays speed and efficiency both of length n.
+    26. Find the Most Competitive Subsequence - Given an integer array nums and a positive integer k, return the most competitive subsequence of nums of size k.
+    27. Minimum Interval to Include Each Query - Given a list of intervals, where intervals[i] = [lefti, righti], some intervals overlap, return the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.
+    28. Furthest Building You Can Reach - You are given an integer array heights representing the heights of buildings, some bricks, and some ladders.
+    29. Reorganize String - Given a string s, rearrange the characters of s so that any two adjacent characters are not the same.
+    30. Task Scheduler
+
+

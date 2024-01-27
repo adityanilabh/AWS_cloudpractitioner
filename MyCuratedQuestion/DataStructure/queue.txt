@@ -1,0 +1,32 @@
+    1. LRU Cache - Implement an LRU (Least Recently Used) 
+    2. Binary Tree Level Order Traversal - 
+    3. Binary Tree Zigzag Level Order Traversal - 
+    4. Symmetric Tree -
+    5. Number of Islands - 
+    6. Valid Parentheses - 
+    7. Generate Parentheses -.
+    8. Implement Stack using Queues - 
+    9. Implement Queue using Stacks - 
+    10. Rotate Array -
+    11. Circular Array Loop - 
+    12. Serialize and Deserialize Binary Tree - 
+    13. Maximal Rectangle - 
+    14. Alien Dictionary - 
+    15. Course Schedule - 
+    16. Implement Queue using Stacks
+    1. Design Circular Queue
+    2. Design Circular Deque
+    3. Number of Recent Calls
+    4. Moving Average from Data Stream
+    5. Design Hit Counter
+    6. Sliding Window Maximum
+    7. First Unique Number in a Data Stream
+    8. Shortest Path in Binary Matrix
+    9. Rotting Oranges
+    10. As Far from Land as Possible
+    11. Perfect Squares
+    12. The Maze
+    13. The Maze II
+    14. The Maze III
+    17. 
+
