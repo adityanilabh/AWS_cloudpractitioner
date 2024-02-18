@@ -62,3 +62,6 @@ Fenwick Tree (Binary Indexed Tree) Problems:
     19. Range Sum Query - Immutable
     20. Minimum Increment to Make Array Unique
 
+Binary Search
+
+
