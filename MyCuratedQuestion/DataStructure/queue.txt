@@ -2,7 +2,7 @@
     2. Binary Tree Level Order Traversal - 
     3. Binary Tree Zigzag Level Order Traversal - 
     4. Symmetric Tree -
-    5. Number of Islands - 
+    5. Number of Islands(done) - 
     6. Valid Parentheses - 
     7. Generate Parentheses -.
     8. Implement Stack using Queues - 

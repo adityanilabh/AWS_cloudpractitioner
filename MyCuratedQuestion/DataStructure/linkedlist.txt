@@ -1,5 +1,5 @@
-    1. Two Sum (Linked List)
-    2. Add Two Numbers
+    1. Two Sum (Linked List)(done)
+    2. Add Two Numbers (done)
     3. Merge Two Sorted Lists
     4. Remove Nth Node From End of List
     5. Reverse Linked List

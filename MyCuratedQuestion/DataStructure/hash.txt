@@ -1,33 +1,32 @@
-    1. Two Sum - Given an array of integers, find two numbers such that they add up to a specific target.
-    2. Three Sum - Given an array nums of n integers, find all unique triplets in the array that sum up to a target sum.
-    3. Four Sum - Given an array nums of n integers, find all unique quadruplets in the array which gives the sum of target.
-    4. Longest Substring Without Repeating Characters - Given a string, find the length of the longest substring without repeating characters.
-    5. Group Anagrams - Given an array of strings, group anagrams together.
-    6. Valid Anagram - Given two strings s and t, write a function to determine if t is an anagram of s.
-    7. Substring with Concatenation of All Words - You are given a string s and a list of words, find all the starting indices of substring(s) in s that is a concatenation of each word in words.
-    8. First Unique Character in a String - Given a string, find the first non-repeating character in it and return its index.
-    9. Minimum Window Substring - Given a string S and a string T, find the minimum window in S which will contain all the characters in T in complexity O(n).
-    10. Isomorphic Strings - Given two strings s and t, determine if they are isomorphic.
-    11. Word Pattern - Given a pattern and a string s, find if s follows the same pattern.
-    12. Longest Consecutive Sequence - Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
-    13. Copy List with Random Pointer - A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null.
-    14. Valid Sudoku - Determine if a 9x9 Sudoku board is valid.
-    15. Subarray Sum Equals K - Given an array of integers nums and an integer k, return the total number of continuous subarrays whose sum equals to k.
-    16. Intersection of Two Arrays - Given two arrays, write a function to compute their intersection.
-    17. Happy Number - Write an algorithm to determine if a number n is "happy".
-    18. LRU Cache - Design and implement a data structure for Least Recently Used (LRU) cache.
-    19. First Missing Positive - Given an unsorted integer array nums, find the smallest missing positive integer.
+    1. Two Sum(done) - 
+    2. Three Sum(done) - 
+    3. Four Sum(done) - 
+    4. Longest Substring Without Repeating Characters -
+    5. Group Anagrams - 
+    6. Valid Anagram - 
+    7. Substring with Concatenation of All Words -
+    8. First Unique Character in a String - 
+    9. Minimum Window Substring - 
+    10. Isomorphic Strings - 
+    12. Longest Consecutive Sequence -
+    13. Copy List with Random Pointer -
+    14. Valid Sudoku - 
+    15. Subarray Sum Equals K - 
+    16. Intersection of Two Arrays -
+    17. Happy Number - 
+    18. LRU Cache - 
+    19. First Missing Positive -
     20. Valid Sudoku
 
 
-    21. Island Perimeter - Given a 2D grid representing water and land, calculate the perimeter of the island.
-    22. Design Twitter - Implement a simplified version of Twitter.
-    23. Maximum Points You Can Obtain from Cards - There are several cards arranged in a row, and each card has an associated point value.
-    24. Subarray Sum Equals K - Given an array of integers nums and an integer k, return the total number of continuous subarrays whose sum equals k.
-    25. Find All Anagrams in a String - Given a string s and a non-empty string p, find all the start indices of p's anagrams in s.
-    26. Fraction to Recurring Decimal - Given two integers representing the numerator and denominator of a fraction, return the fraction in string format.
-    27. Word Subsets - Given an array of strings words and two words A and B, find all the strings from words that are universal and contain every letter of A and every letter of B.
-    28. Longest Substring with At Least K Repeating Characters - Find the length of the longest substring T of a given string (consists of lowercase letters only) such that every character in T appears no less than k times.
-    29. Brick Wall - Given a list of wall segments where each segment is represented by a list of integers, find the line along which you will drop a brick such that the fewest number of bricks are crossed.
-    30. Four Divisors - Given an integer array nums, return the sum of divisors of the integers in that array that have exactly four divisors.
+    21. Island Perimeter - 
+    22. Design Twitter -
+    23. Maximum Points You Can Obtain from Cards - 
+    24. Subarray Sum Equals K - 
+    25. Find All Anagrams in a String - 
+    26. Fraction to Recurring Decimal - 
+    27. Word Subsets -
+    28. Longest Substring with At Least K Repeating Characters -
+    29. Brick Wall - 
+    30. Four Divisors -
 
