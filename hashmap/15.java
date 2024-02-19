@@ -28,3 +28,47 @@ class Solution {
 
     }
 }
+
+/* using two pointer concept :
+ * 
+ class Solution {
+    public List<List<Integer>> threeSum(int[] nums) {
+        // solving using 2 pointer concept.
+        // first sort the nums array:
+        Arrays.sort(nums);
+        List<List<Integer>>resultHai= new ArrayList<>();
+        for(int i=0;i<nums.length-2;i++)
+        {
+            // suppose we have [1,1,2,4], here 1 and 1 will yeild same
+            // result, so we only consider 1st 1, skip 2nd 1.
+            //example: 1,2,4 for 1st and 1,2,4 for second 1 is same
+            if(i>0 && nums[i]==nums[i-1])
+            {
+                continue;
+            }
+            int l=i+1;
+            int r= nums.length-1;
+            while(l<r)
+            {
+                int result= nums[i]+nums[l]+nums[r];
+                if(result==0)
+                {
+                   resultHai.add(Arrays.asList(nums[i],nums[l++],nums[r--]));
+                   while (l < r && nums[l] == nums[l - 1])
+            ++l;
+          while (l < r && nums[r] == nums[r + 1])
+            --r;
+                }
+                else if(result<0)
+                {
+                    l++;
+                }
+                else{
+                   r--;
+                }
+            }
+        }
+        return resultHai;
+    }
+}
+ */
