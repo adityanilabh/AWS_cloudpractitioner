@@ -29,7 +29,7 @@
     29. Friend Circles
     30. Word Break
     31. Word Break II
-    32. Longest Increasing Path in a Matrix
+    32. Longest Increasing Path in a Matrix(done)
     33. Optimize Water Distribution in a Village
     34. Find Eventual Safe States
     35. Minimum Moves to Equal Array Elements III
