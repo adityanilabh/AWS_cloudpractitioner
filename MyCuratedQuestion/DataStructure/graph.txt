@@ -100,4 +100,6 @@
     100. Find If Path Exists In Graph (done)
     101. Rotten Oranges (done)
     102. Max Area Of Island.(done)
+    103. Number of Province.(done)
+    104. Lexicographically Smallest equivalent String(done).
 

@@ -6,3 +6,5 @@
 6. 79:  Word Search
 7. 1971: Find if path exist in graph.
 8. 695:  Max area of Island
+9. 547: Number of Province.
+10. 1061: Lexicographically Smallest Equivalent String
