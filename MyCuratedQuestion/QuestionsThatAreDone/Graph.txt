@@ -5,3 +5,4 @@
 5. 332: reconstruct Itinerary
 6. 79:  Word Search
 7. 1971: Find if path exist in graph.
+8. 695:  Max area of Island
