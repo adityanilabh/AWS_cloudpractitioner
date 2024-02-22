@@ -4,14 +4,14 @@
     4. Word Ladder
     5. Clone Graph
     6. Pacific Atlantic Water Flow
-    7. Word Search
+    7. Word Search(done)
     8. Surrounded Regions
     9. Network Delay Time
     10. Minimum Path Sum
     11. Cheapest Flights Within K Stops
     12. Shortest Path in Binary Matrix
     13. Word Search II
-    14. Reconstruct Itinerary
+    14. Reconstruct Itinerary(done)
     15. Alien Dictionary
     16. Redundant Connection
     17. Evaluate Division
