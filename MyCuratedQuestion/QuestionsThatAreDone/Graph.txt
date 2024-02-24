@@ -8,3 +8,4 @@
 8. 695:  Max area of Island
 9. 547: Number of Province.
 10. 1061: Lexicographically Smallest Equivalent String
+11. 684: Redundant Connections.

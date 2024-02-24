@@ -13,7 +13,7 @@
     13. Word Search II
     14. Reconstruct Itinerary(done)
     15. Alien Dictionary
-    16. Redundant Connection
+    16. Redundant Connection(done)
     17. Evaluate Division
     18. Minimum Genetic Mutation
     19. All Paths from Source to Target
