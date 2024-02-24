@@ -1,0 +1,21 @@
+For sequence were we have to find longest Increasing subsequence,
+ and we have to avoid counting elements that are part of that sequence, we can use this
+ pattern: 
+
+ for (int num : nums) {
+    // important line.
+            if (!set.contains(num - 1)) {
+                int currentNum = num;
+                int currentStreak = 1;
+
+                while (set.contains(currentNum + 1)) {
+                    currentNum++;
+                    currentStreak++;
+                }
+
+                longestStreak = Math.max(longestStreak, currentStreak);
+            }
+        },
+ 
+-- in line number 7, we just don't consider any element which are intermediate of a 
+   sequence.

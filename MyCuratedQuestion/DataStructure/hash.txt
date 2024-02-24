@@ -8,7 +8,7 @@
     8. First Unique Character in a String - 
     9. Minimum Window Substring - 
     10. Isomorphic Strings - 
-    12. Longest Consecutive Sequence -
+    12. Longest Consecutive Sequence -(done)
     13. Copy List with Random Pointer -
     14. Valid Sudoku - 
     15. Subarray Sum Equals K - 
