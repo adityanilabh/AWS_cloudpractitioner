@@ -102,4 +102,5 @@
     102. Max Area Of Island.(done)
     103. Number of Province.(done)
     104. Lexicographically Smallest equivalent String(done).
+    105. Number Of Enclave (done)
 
