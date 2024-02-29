@@ -103,4 +103,5 @@
     103. Number of Province.(done)
     104. Lexicographically Smallest equivalent String(done).
     105. Number Of Enclave (done)
+    106. 3015. Count the Number of Houses at a Certain Distance I(done)
 
