@@ -29,4 +29,5 @@
     28. Longest Substring with At Least K Repeating Characters -
     29. Brick Wall - 
     30. Four Divisors -
+    31. Validate Alien Dictionary: (done)
 
