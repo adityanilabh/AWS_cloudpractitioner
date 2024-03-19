@@ -8,13 +8,14 @@
     8. Count Complete Tree Nodes
     9. Closest Binary Search Tree Value
     10. Range Sum of BST
-    11. Insert into a Binary Search Tree
+    11. Insert into a Binary Search Tree (done)
     12. Delete Node in a BST
     13. Convert BST to Greater Tree
     14. Minimum Absolute Difference in BST
     15. Recover Binary Search Tree
     16. Flatten Binary Search Tree to Linked List
-Binary Trees (BT): 17. Maximum Depth of Binary Tree
+Binary Trees (BT): 
+    17. Maximum Depth of Binary Tree
     18. Balanced Binary Tree
     19. Diameter of Binary Tree
     20. Construct Binary Tree from Preorder and Inorder Traversal

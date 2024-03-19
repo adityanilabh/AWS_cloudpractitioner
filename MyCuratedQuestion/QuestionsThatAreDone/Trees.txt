@@ -1,0 +1,5 @@
+1. Insert in a Binary search Tree
+2. Inorder Traversal
+3. PostOrder Traversal
+4. Pre order Traversal
+5. Level Order Traversal
