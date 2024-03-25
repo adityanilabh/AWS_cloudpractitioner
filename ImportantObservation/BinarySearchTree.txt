@@ -1,0 +1,20 @@
+1.  Inorder traversal: In case of binary search trees (BST), 
+Inorder traversal gives nodes in non-decreasing order.
+
+2.  Preorder traversal:It is used to create a copy of the tree. 
+Preorder traversal is also used to get prefix expression on of an expression tree.
+
+3.Postorder traversal: Postorder traversal first traverses the left and the right 
+subtree and then visits the root node. It is used to delete the tree. In simple words, 
+visit the root of every subtree last.
+
+4.Level order traversal: Level order traversal of a BST is breadth first traversal 
+for the tree. It visits all nodes at a particular level first before moving to the 
+next level.
+
+5.Height of BST: It is recursively calculated using height of left and right 
+subtrees of the node and assigns height to the node as max of the heights of two 
+children plus 1.
+
+6. Delete a Node of BST: It is used to delete a node with specific key from the 
+BST and return the new BST.

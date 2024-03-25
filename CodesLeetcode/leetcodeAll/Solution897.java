@@ -13,6 +13,7 @@
  *     }
  * }
  */
+/* 
 class Solution {
     TreeNode newNode= null;
     TreeNode currNode=null;
@@ -42,3 +43,4 @@ class Solution {
         return newNode;
     }
 }
+*/
