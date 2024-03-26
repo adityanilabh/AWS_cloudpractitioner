@@ -15,19 +15,19 @@
     15. Recover Binary Search Tree
     16. Flatten Binary Search Tree to Linked List
 Binary Trees (BT): 
-    17. Maximum Depth of Binary Tree
+    17. Maximum Depth of Binary Tree(done)
     18. Balanced Binary Tree
-    19. Diameter of Binary Tree
+    19. Diameter of Binary Tree (done)
     20. Construct Binary Tree from Preorder and Inorder Traversal
     21. Binary Tree Level Order Traversal
-    22. Path Sum
+    22. Path Sum (done)
     23. Populating Next Right Pointers in Each Node
     24. Sum of Left Leaves
     25. Binary Tree Paths
-    26. Lowest Common Ancestor of a Binary Tree
+    26. Lowest Common Ancestor of a Binary Tree (done)
     27. Subtree of Another Tree
     28. Sum of Nodes with Even-Valued Grandparent
-    29. Invert Binary Tree
+    29. Invert Binary Tree (done)
     30. Serialize and Deserialize Binary Tree
     31. Find Duplicate Subtrees
     32. House Robber III
