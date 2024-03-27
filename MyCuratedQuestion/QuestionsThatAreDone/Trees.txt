@@ -8,3 +8,6 @@
 8. Path Sum 
 9. Lowest Common Ancestor of a Binary Tree
 10. Invert Binary Tree
+11. Implement Trie
+12. Word Break 2
+13. Design Add and Search Words Data Structure (trie)

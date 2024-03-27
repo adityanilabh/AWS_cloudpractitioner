@@ -34,12 +34,14 @@ Binary Trees (BT):
     33. Binary Tree Zigzag Level Order Traversal
     34. Binary Tree Maximum Path Sum
     35. Cousins in Binary Tree
-Tries: 36. Implement Trie (Prefix Tree)
+Tries: 
+    36. Implement Trie (Prefix Tree)
     37. Add and Search Word - Data structure design
-    38. Word Search II
+    38. Word Search II 
     39. Map Sum Pairs
     40. Design Search Autocomplete System
-Heap and Priority Queue with Trees: 41. Kth Largest Element in a Stream
+Heap and Priority Queue with Trees: 
+41. Kth Largest Element in a Stream
     42. Sliding Window Maximum
     43. Top K Frequent Elements
     44. Serialize and Deserialize N-ary Tree
@@ -78,18 +80,24 @@ Random Trees and Graphs: 71. Clone Graph
     77. Find the Town Judge
 Segment Trees: 78. Range Sum Query - Immutable
     79. Count of Range Sum
-Suffix Trees and Tries: 80. Implement Trie (Prefix Tree)
-    81. Add and Search Word - Data structure design
-    82. Word Search II
-Interval Trees: 83. Count of Smaller Numbers After Self
+Suffix Trees and Tries: 
+    80. Implement Trie (Prefix Tree) (done)
+    81. Add and Search Word - Data structure design (done)
+    82. Word Search II (done)
+Interval Trees: 
+    83. Count of Smaller Numbers After Self
     84. The Skyline Problem
     85. Meeting Rooms II
-Expression Trees: 86. Evaluate Reverse Polish Notation
+Expression Trees: 
+    86. Evaluate Reverse Polish Notation
     87. Different Ways to Add Parentheses
-Threaded Binary Trees: 88. Convert Binary Search Tree to Sorted Doubly Linked List
-Union-Find with Trees: 89. Graph Valid Tree
+Threaded Binary Trees: 
+    88. Convert Binary Search Tree to Sorted Doubly Linked List
+Union-Find with Trees:
+    89. Graph Valid Tree
     90. Accounts Merge
-Miscellaneous Tree Problems: 91. Find Median from Data Stream
+Miscellaneous Tree Problems: 
+    91. Find Median from Data Stream
     92. Binary Tree Right Side View
     93. Validate Binary Tree Nodes
     94. Minimum Distance Between BST Nodes
@@ -119,4 +127,5 @@ Miscellaneous Tree Problems: 91. Find Median from Data Stream
     118. Diameter of Binary Tree
     119. Maximum Width of Binary Tree
     120. Recover Binary Search Tree
+    121: Design Add and Search Words Data Structure (trie)(done)
 
